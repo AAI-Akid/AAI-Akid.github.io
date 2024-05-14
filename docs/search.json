@@ -4,13 +4,69 @@
     "href": "index.html",
     "title": "Akid’s Personal Website",
     "section": "",
-    "text": "I am currently a first year student studying Applied Artificial Intelligence at the Singapore Institute of Technology. I am passionate about AIML and cybersecurity, and I am always looking for opportunities to learn and grow in these areas.\nI have a background in cybersecurity, having completed my Diploma in Information Security Management in Singapore Polytechnic. During my third year internship, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab, where I was a part of a team developing an AI model to detect malware and cyber threats in network traffic."
+    "text": "I am currently a first year student studying Applied Artificial Intelligence at the Singapore Institute of Technology. I am passionate about AIML and cybersecurity, and I am always looking for opportunities to learn and grow in these areas."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Akid’s Personal Website",
     "section": "",
-    "text": "I am currently a first year student studying Applied Artificial Intelligence at the Singapore Institute of Technology. I am passionate about AIML and cybersecurity, and I am always looking for opportunities to learn and grow in these areas.\nI have a background in cybersecurity, having completed my Diploma in Information Security Management in Singapore Polytechnic. During my third year internship, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab, where I was a part of a team developing an AI model to detect malware and cyber threats in network traffic."
+    "text": "I am currently a first year student studying Applied Artificial Intelligence at the Singapore Institute of Technology. I am passionate about AIML and cybersecurity, and I am always looking for opportunities to learn and grow in these areas."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Internship Project",
+    "section": "",
+    "text": "During my internship in Year 3 of my diploma, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab. My team and I were tasked with developing an AI model to detect malware and cyber threats in network traffic. We were supervised by Dr. Vinay Sachidananda, and the results of our research were published in a paper titled “A novel approach for detecting vulnerable IoT devices connected behind a home NAT”.\n\n\nTelecommunication service providers (telcos) are exposed to cyber-attacks executed by compromised IoT devices connected to their customers’ networks. Such attacks might have severe effects on the attack target, as well as the telcos themselves. To mitigate those risks, we propose a machine learning-based method that can detect specific vulnerable IoT device models connected behind a domestic NAT, thereby identifying home networks that pose a risk to the telcos infrastructure and service availability. To evaluate our method, we collected a large quantity of network traffic data from various commercial IoT devices in our lab and compared several classification algorithms. We found that (a) the LGBM algorithm produces excellent detection results, and (b) our flow-based method is robust and can handle situations for which existing methods used to identify devices behind a NAT are unable to fully address, e.g., encrypted, nonTCP or non-DNS traffic. To promote future research in this domain we share our novel labeled benchmark dataset."
+  },
+  {
+    "objectID": "project.html#internship-project",
+    "href": "project.html#internship-project",
+    "title": "Internship Project",
+    "section": "",
+    "text": "During my internship in Year 3 of my diploma, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab. My team and I were tasked with developing an AI model to detect malware and cyber threats in network traffic. We were supervised by Dr. Vinay Sachidananda, and the results of our research were published in a paper titled “A novel approach for detecting vulnerable IoT devices connected behind a home NAT”.\n\n\nTelecommunication service providers (telcos) are exposed to cyber-attacks executed by compromised IoT devices connected to their customers’ networks. Such attacks might have severe effects on the attack target, as well as the telcos themselves. To mitigate those risks, we propose a machine learning-based method that can detect specific vulnerable IoT device models connected behind a domestic NAT, thereby identifying home networks that pose a risk to the telcos infrastructure and service availability. To evaluate our method, we collected a large quantity of network traffic data from various commercial IoT devices in our lab and compared several classification algorithms. We found that (a) the LGBM algorithm produces excellent detection results, and (b) our flow-based method is robust and can handle situations for which existing methods used to identify devices behind a NAT are unable to fully address, e.g., encrypted, nonTCP or non-DNS traffic. To promote future research in this domain we share our novel labeled benchmark dataset."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Reading\nI enjoy reading during my free time. My favourite genres are science fiction and fantasy. Some of my favourite authors include:\n\nRick Riordan\nCassandra Clare\nBrandon Sanderson\nM.L. Wang\n\n\nHere are my top 3 favourite books:\n\n\n\nSword of Kaigen by M.L. Wang\n\n\n\nSword of Kaigen by M.L. Wang\n\nGenre: Fantasy\nDescription: A mother with hidden powers must save her son from a war that threatens to destroy her homeland.\n\n\n\n\n\nRed Rising by Pierce Brown\n\n\n\nRed Rising by Pierce Brown\n\nGenre: Science Fiction\nDescription: Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity’s overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society’s ruling class. There, he will stop at nothing to bring down his enemies… even if it means he has to become one of them to do so.\n\n\n\n\n\nCloclwork Angel by Cassandra Clare\n\n\n\nClockwork Angel by Cassandra Clare\n\nGenre: Fantasy\nDescription: When sixteen-year-old Tessa Gray crosses the ocean to find her brother, her destination is England, the time is the reign of Queen Victoria, and something terrifying is waiting for her in London’s Downworld, where vampires, warlocks and other supernatural folk stalk the gaslit streets. Only the Shadowhunters, warriors dedicated to ridding the world of demons, keep order amidst the chaos.\n\n\n\n\n\nGaming\nI also enjoy playing video games, mainly First-Person Shooters and Role-Playing Games. Some of my favourite games include:\n\nValorant\nCounter-Strike Global Offensive\nBaldur’s Gate 3\n\nI am currently spending most of my time playing Baldur’s Gate 3. Watch the trailer below to see what the game is about!"
+  },
+  {
+    "objectID": "hobbies.html#my-favourite-pastime",
+    "href": "hobbies.html#my-favourite-pastime",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I enjoy reading during my free time. My favourite genres are science fiction and fantasy. Some of my favourite authors include: - Rick Riordan - Cassandra Clare - Brandon Sanderson - M.L. Wang\n\n\n\n\n\nSword of Kaigen by M.L. Wang\n\n\n\nSword of Kaigen by M.L. Wang\n\nGenre: Fantasy\nDescription: A mother with hidden powers must save her son from a war that threatens to destroy her homeland.\n\n\n\n\n\nRed Rising by Pierce Brown\n\n\n\nRed Rising by Pierce Brown\n\nGenre: Science Fiction\nDescription: Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity’s overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society’s ruling class. There, he will stop at nothing to bring down his enemies… even if it means he has to become one of them to do so.\n\n\n\n\n\nCloclwork Angel by Cassandra Clare\n\n\n\nClockwork Angel by Cassandra Clare\n\nGenre: Fantasy\nDescription: When sixteen-year-old Tessa Gray crosses the ocean to find her brother, her destination is England, the time is the reign of Queen Victoria, and something terrifying is waiting for her in London’s Downworld, where vampires, warlocks and other supernatural folk stalk the gaslit streets. Only the Shadowhunters, warriors dedicated to ridding the world of demons, keep order amidst the chaos."
+  },
+  {
+    "objectID": "hobbies.html#reading",
+    "href": "hobbies.html#reading",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I enjoy reading during my free time. My favourite genres are science fiction and fantasy. Some of my favourite authors include:\n\nRick Riordan\nCassandra Clare\nBrandon Sanderson\nM.L. Wang\n\n\n\n\n\n\nSword of Kaigen by M.L. Wang\n\n\n\nSword of Kaigen by M.L. Wang\n\nGenre: Fantasy\nDescription: A mother with hidden powers must save her son from a war that threatens to destroy her homeland.\n\n\n\n\n\nRed Rising by Pierce Brown\n\n\n\nRed Rising by Pierce Brown\n\nGenre: Science Fiction\nDescription: Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity’s overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society’s ruling class. There, he will stop at nothing to bring down his enemies… even if it means he has to become one of them to do so.\n\n\n\n\n\nCloclwork Angel by Cassandra Clare\n\n\n\nClockwork Angel by Cassandra Clare\n\nGenre: Fantasy\nDescription: When sixteen-year-old Tessa Gray crosses the ocean to find her brother, her destination is England, the time is the reign of Queen Victoria, and something terrifying is waiting for her in London’s Downworld, where vampires, warlocks and other supernatural folk stalk the gaslit streets. Only the Shadowhunters, warriors dedicated to ridding the world of demons, keep order amidst the chaos."
+  },
+  {
+    "objectID": "hobbies.html#gaming",
+    "href": "hobbies.html#gaming",
+    "title": "Hobbies",
+    "section": "Gaming",
+    "text": "Gaming\nI also enjoy playing video games, mainly First-Person Shooters and Role-Playing Games. Some of my favourite games include:\n\nValorant\nCounter-Strike Global Offensive\nBaldur’s Gate 3"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Akid’s Personal Website",
+    "section": "About Me",
+    "text": "About Me\nI have a background in cybersecurity, having completed my Diploma in Information Security Management in Singapore Polytechnic. During my third year internship, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab, where I was a part of a team developing an AI model to detect malware and cyber threats in network traffic. This piqued my interest in AIML and ultimately led to my decision to apply for Applied Artificial Intelligence in SIT."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Akid’s Personal Website",
+    "section": "",
+    "text": "I am currently a first year student studying Applied Artificial Intelligence at the Singapore Institute of Technology. I am passionate about AIML and cybersecurity, and I am always looking for opportunities to learn and grow in these areas."
   }
 ]

@@ -2,4 +2,42 @@
 title: "Hobbies"
 ---
 
-ksmdlaksmdl
+### Reading
+
+I enjoy reading during my free time. My favourite genres are science fiction and fantasy. Some of my favourite authors include:
+
+- Rick Riordan
+- Cassandra Clare
+- Brandon Sanderson
+- M.L. Wang
+
+#### Here are my top 3 favourite books:
+![Sword of Kaigen by M.L. Wang](img/swordofkaigen.jpg){width=30%}
+
+1. **Sword of Kaigen by M.L. Wang**
+   - Genre: Fantasy
+   - Description: A mother with hidden powers must save her son from a war that threatens to destroy her homeland.
+   
+![Red Rising by Pierce Brown](img/redrising.jpg){width=30%}
+
+2. **Red Rising by Pierce Brown**
+   - Genre: Science Fiction
+   - Description: Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity's overlords struggle for power. He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society's ruling class. There, he will stop at nothing to bring down his enemies... even if it means he has to become one of them to do so.
+   
+![Cloclwork Angel by Cassandra Clare](img/clockworkangel.jpg){width=30%}
+
+3. **Clockwork Angel by Cassandra Clare**
+   - Genre: Fantasy
+   - Description: When sixteen-year-old Tessa Gray crosses the ocean to find her brother, her destination is England, the time is the reign of Queen Victoria, and something terrifying is waiting for her in London's Downworld, where vampires, warlocks and other supernatural folk stalk the gaslit streets. Only the Shadowhunters, warriors dedicated to ridding the world of demons, keep order amidst the chaos.
+   
+### Gaming
+
+I also enjoy playing video games, mainly First-Person Shooters and Role-Playing Games. Some of my favourite games include:
+
+- Valorant
+- Counter-Strike Global Offensive
+- Baldur's Gate 3
+
+I am currently spending most of my time playing Baldur's Gate 3. Watch the trailer below to see what the game is about!
+
+{{< video https://www.youtube.com/watch?v=1T22wNvoNiU&ab_channel=GameSpot>}}

@@ -8,14 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - hobbies.qmd
+      - href: project.qmd
+        text: Project
+      - href: hobbies.qmd
+        text: Hobbies
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 
 

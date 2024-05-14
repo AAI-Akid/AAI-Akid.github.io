@@ -1,7 +1,0 @@
----
-title: "Internship Project"
----
-
-## Internship Project
-
-During my internship in Year 3 of my diploma, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab. My team and I were tasked with developing an AI model to detect malware and cyber threats in network traffic. We were supervised by [Dr. Vinay Sachidananda.](http://www.vinaysachi.com/index.html){target="_blank" rel="noopener"}
