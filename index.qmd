@@ -1,0 +1,10 @@
+---
+title: "Akid's Personal Website"
+---
+
+## Welcome!
+
+I am currently a first year student studying Applied Artificial Intelligence at the Singapore Institute of Technology. I am passionate about AIML and cybersecurity, and I am always looking for opportunities to learn and grow in these areas.
+
+I have a background in cybersecurity, having completed my Diploma in Information Security Management in Singapore Polytechnic. During my third year internship, I worked as a researcher at the NUS-Singtel Cyber Security R&D Lab, where I was a part of a team developing an AI model to detect malware and cyber threats in network traffic.
+
